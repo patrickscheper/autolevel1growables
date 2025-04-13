@@ -1,0 +1,15 @@
+C:\Users\irisj\Desktop\New folder\AutoLevel1Growables\bin\Debug\AutoLevel1Growables.dll
+C:\Users\irisj\Desktop\New folder\AutoLevel1Growables\bin\Debug\AutoLevel1Growables.pdb
+C:\Users\irisj\Desktop\New folder\AutoLevel1Growables\bin\Debug\Assembly-CSharp.dll
+C:\Users\irisj\Desktop\New folder\AutoLevel1Growables\bin\Debug\ColossalManaged.dll
+C:\Users\irisj\Desktop\New folder\AutoLevel1Growables\bin\Debug\ICities.dll
+C:\Users\irisj\Desktop\New folder\AutoLevel1Growables\bin\Debug\UnityEngine.dll
+C:\Users\irisj\Desktop\New folder\AutoLevel1Growables\bin\Debug\UnityEngine.UI.dll
+C:\Users\irisj\Desktop\New folder\AutoLevel1Growables\bin\Debug\PopsApiWrapper.dll
+C:\Users\irisj\Desktop\New folder\AutoLevel1Growables\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\irisj\Desktop\New folder\AutoLevel1Growables\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\irisj\Desktop\New folder\AutoLevel1Growables\obj\Debug\AutoLevel1Growables.csproj.AssemblyReference.cache
+C:\Users\irisj\Desktop\New folder\AutoLevel1Growables\obj\Debug\AutoLevel1Growables.csproj.CoreCompileInputs.cache
+C:\Users\irisj\Desktop\New folder\AutoLevel1Growables\obj\Debug\AutoLevel1Growables.csproj.CopyComplete
+C:\Users\irisj\Desktop\New folder\AutoLevel1Growables\obj\Debug\AutoLevel1Growables.dll
+C:\Users\irisj\Desktop\New folder\AutoLevel1Growables\obj\Debug\AutoLevel1Growables.pdb
