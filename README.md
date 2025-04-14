@@ -21,7 +21,7 @@ This mod ensures that all buildings always start as a Level 1 building and can n
 - The mod checks for new buildings being placed and resets their level to 1 if they're a RICO (Residential, Industrial, Commercial, Office) building.
 - Works with all custom RICO assets.
 - Lightweight and safe to use with other mods such as [Ploppable RICO Revisited](https://steamcommunity.com/sharedfiles/filedetails/?id=2016920607) or [Plop the Growables](https://steamcommunity.com/sharedfiles/filedetails/?id=924884948) automatically start at Level 1.
-- No known incompatibilities.
+- No known incompatibilities with other mods.
 
 # Images: 
 
