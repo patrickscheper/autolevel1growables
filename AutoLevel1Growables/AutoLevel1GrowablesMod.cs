@@ -37,15 +37,7 @@ namespace AutoLevel1Growables
 
                 if (info == null) return;
 
-                var service = info.m_class.m_service;
-
-                bool isGrowable =
-                    service == ItemClass.Service.Residential ||
-                    service == ItemClass.Service.Commercial ||
-                    service == ItemClass.Service.Industrial ||
-                    service == ItemClass.Service.Office;
-
-                if (isGrowable && info.m_class.m_level != ItemClass.Level.Level1)
+                if (building.m_level != 0)
                 {
                     building.m_level = 0;
                     BuildingManager.instance.m_buildings.m_buffer[buildingID] = building;
