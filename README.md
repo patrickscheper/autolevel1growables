@@ -1,5 +1,5 @@
 
-![screenshot](https://i.imgur.com/9ms8DIe.png)
+![screenshot](https://i.imgur.com/1EqyarL.png)
 
 > [!IMPORTANT]
 > Find the **Auto Level 1 Growables** mod in the Steam Workshop: https://steamcommunity.com/sharedfiles/filedetails/?id=3463505441.
